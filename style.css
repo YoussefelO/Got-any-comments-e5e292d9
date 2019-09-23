@@ -1,0 +1,126 @@
+
+label {
+    display: block;
+    font: 1rem 'Fira Sans', sans-serif;
+
+}
+
+input,
+label {
+    margin: .4rem 0;
+    background-color: teal;
+    width: 100px;
+    border-radius: 10% 10% 10% 10%;
+}
+
+body {
+	background-color: orange;
+
+}
+
+.n2 {
+	background-color: black;
+	color: teal;
+	  border-radius: 10% 10% 10% 10%;
+    text-align: center;
+	  
+
+
+}
+.textname {
+	border: groove 1em ;
+  border-radius: 2em black;
+   border-radius: 5% 5% 5% 5%;
+   margin-right: 720px;
+   margin-left: 600px;
+   width: 260px;
+   height: 660px;
+   
+
+}
+
+     
+}
+.email1 {
+
+	{
+    display: block;
+    font: 1rem 'Fira Sans', sans-serif;
+
+}
+
+input,
+label {
+    margin: left;
+
+}
+}
+.email2 {
+}
+.number1 {
+		label {
+    display: block;
+    font: 1rem 'Fira Sans', sans-serif;
+}
+
+input,
+label {
+    margin: .4rem 0;
+
+}
+}
+.number2 {
+	
+}
+.pass1 {
+
+	label {
+    display: block;
+    font: 1rem 'Fira Sans', sans-serif;
+}
+
+input,
+label {
+    margin: .4rem 0;
+
+}
+}
+.pass2 {
+
+}
+.name1 {
+    display: block;
+    font: 1rem 'Fira Sans', sans-serif;
+    
+}
+
+input,
+label {
+    margin: .4rem 0;
+
+}
+label,
+textarea {
+    font-size: .8rem;
+    letter-spacing: 1px;
+}
+textarea {
+    padding: 10px;
+    line-height: 1.5;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    box-shadow: 1px 1px 1px #999;
+}
+
+
+label {
+    display: block;
+    margin-bottom: 10px;
+}
+.blue-input:focus {
+  background: teal;
+  color: orange;
+}
+
+
+
